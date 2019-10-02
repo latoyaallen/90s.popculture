@@ -1,68 +1,56 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# What happened in 1990 ?
+![Image of Detroit Pistons](https://jocksandstilettojill.com/wp-content/uploads/2014/03/detroit-pistons-1989.jpg)
+* The Detroit Pistons win the NBA championship.
+* The Govenment shuts down over Columbus Day Weekend due to a deficit reduction package negotiated by President George H. W. Bush.
+* Gianni Versace designs the costumes for the San Francisco Opera's production of Capriccio.
+* Adobe releases the first version of Photoshop.
+* Lonnie George Johnson, a black engineer, invents the Super Soaker water gun.
+* Nothing Compares 2 U, which is performed by Sinéad O'Connor and written by Prince, is released.
+* The programming language Python is released.
 
-## Available Scripts
+# What happened in 1991?
+* Boris Yeltsin becomes the first President fo the Russian Federation.
+* Linux is released by Linus Torvalds.
+* The Berlin Wall falls.
+* Nintendo releases the Super Nintendo Entertainment System.
 
-In the project directory, you can run:
+# What happened in 1992 ?
+* Democratic Governor Bill Clinton of Arkansas defeated incumbent Republican President George H. W.
+* Thierry Mugler completes his first haute couture collection.
+* The first text message is sent.
+* Kriss Kross releases Jump.
+* Vogue releases it's iconic 100th anniversary special cover.  It features 2 WOC on the cover at the same time.
 
-### `npm start`
+# What happened in 1993 ?
+* Mae Carol Jemison, the first black woman in space, leaves NASA to form her own technology research company,  The Jemison Group Inc.
+* Hocus Pocus is released.
+* The first female African-American Senator, Carol Moseley Braun, takes office in Illinois.
+* The Chicago Bulls become the NBA Champions.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# What happened in 1994 ?
+* Amazon is founded.
+* Quentin Tarantino's Pulp Fiction hits cinemas.
+* Nelson Mandela becomes South Africa's first black president.
+* Nirvana releases Unplugged in New York.  It was recorded in 1993.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+# What happened in 1995 ?
+* JavaScript is released.
+* The cult classic movie Clueless is hits theaters.
+* Dick Cheney becomes the Chairman and CEO of Halliburton Company.
+* eBay is launched.
+* The DVD is invented.
 
-### `npm test`
+# What happened in 1996 ?
+* Tickle Me Elmo is released.
+* "One in a Million" by Aaliyah is released.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# What happened in 1997 ?
+* Toyota gives us the Prius, the first mass-produced hybrid automobile.
 
-### `npm run build`
+# What happened in 1998 ?
+* André Leon Talley returns to Vogue as the editor-at-large.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# What happened in 1999 ?
+* House speaker Newt Gingrich resigns.
+* TLC gives us No Scrubs.
+* The Blair Witch Project and The Matrix are released.
